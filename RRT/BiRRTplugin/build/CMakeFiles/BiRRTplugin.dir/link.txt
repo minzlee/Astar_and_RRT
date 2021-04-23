@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -L/usr/local/lib -L/usr/lib/x86_64-linux-gnu -shared -Wl,-soname,libBiRRTplugin.so -o libBiRRTplugin.so CMakeFiles/BiRRTplugin.dir/BiRRTplugin.cpp.o  -L/usr/local/lib -Wl,-rpath,/usr/local/lib: -lopenrave0.9 

@@ -1,0 +1,7 @@
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/install/strip.dir
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/edit_cache.dir
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/minzheplugin.dir
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/list_install_components.dir
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/install/local.dir
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/rebuild_cache.dir
+/home/lee/EECS598006W21MP/HW3/Upload/minzheplugin/build/CMakeFiles/install.dir

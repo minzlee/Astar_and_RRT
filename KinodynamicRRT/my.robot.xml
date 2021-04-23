@@ -1,0 +1,15 @@
+<Robot>
+  <KinBody>
+    <!-- add a segway model to the base link -->
+    <Body name="segway">
+      <translation>0 0 0.742</translation>
+      <Geom type="trimesh">
+        <Data>models/segwayrmp/segwayrmp.iv 1.0</Data>
+        <Render>models/segwayrmp/segwayrmp.iv  1.0</Render>
+      </Geom>
+      <mass type="custom">
+        <total>40</total>
+      </mass>
+    </Body>
+  </KinBody>
+</Robot>
